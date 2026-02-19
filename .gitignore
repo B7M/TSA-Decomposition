@@ -1,0 +1,30 @@
+############################
+# OS FILES
+############################
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+############################
+# VIRTUAL ENVIRONMENTS
+############################
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+############################
+# IDEs AND EDITORS
+############################
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
