@@ -1,0 +1,4 @@
+Model A,Model B,Mean |e_A| − |e_B|,DM stat,DM (HLN),p-value,Sig,Winner,n
+Autoformer_NoDecomp,Autoformer,-0.03,-5.406,-5.319,0.0,***,Autoformer_NoDecomp,840
+Autoformer,TCN,0.02,2.623,2.581,0.0099,***,TCN,840
+Autoformer_NoDecomp,TCN,-0.02,-1.911,-1.88,0.0601,*,Autoformer_NoDecomp,840

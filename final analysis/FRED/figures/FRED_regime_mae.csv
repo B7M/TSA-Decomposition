@@ -1,0 +1,10 @@
+regime,Model,MAE_mean,MAE_std,n
+Low Vol,TCN,0.06,0.02,21
+Low Vol,Autoformer,0.09,0.03,21
+Low Vol,Autoformer_NoDecomp,0.04,0.02,21
+Mid Vol,TCN,0.13,0.09,18
+Mid Vol,Autoformer,0.14,0.08,18
+Mid Vol,Autoformer_NoDecomp,0.09,0.04,18
+High Vol,TCN,0.14,0.08,21
+High Vol,Autoformer,0.16,0.08,21
+High Vol,Autoformer_NoDecomp,0.15,0.06,21
