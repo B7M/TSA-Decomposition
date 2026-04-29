@@ -28,3 +28,4 @@ venv.bak/
 *.iml
 *.sublime-project
 *.sublime-workspace
+*.db
