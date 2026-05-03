@@ -28,5 +28,8 @@ venv.bak/
 *.iml
 *.sublime-project
 *.sublime-workspace
+<<<<<<< HEAD
 *.db
 *.db
+=======
+>>>>>>> d96c3d078bba82b8db508773755feb385c816ca9
