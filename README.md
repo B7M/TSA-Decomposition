@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # When Does Time-Series Decomposition Help or Hurt Long-Horizon Forecasting?
 
 ---
@@ -128,4 +127,3 @@ Data usage is subject to FRED terms of use:
 https://fred.stlouisfed.org/legal
 
 This repository is for academic purposes.
->>>>>>> d96c3d078bba82b8db508773755feb385c816ca9
