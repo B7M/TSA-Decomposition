@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+neuralforecast
+pytorch-lightning
+torch
+arch
+dill
